@@ -1,3 +1,7 @@
+// Session 03
+// Date: 30/09/2020
+// Code: 01
+
 // Variables
 var edad = 20
 edad = 21
