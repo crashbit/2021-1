@@ -15,3 +15,6 @@ Resources on what is seen in Object Oriented Programming Models and Mobile Compu
     * [GUía Swift](../2021-1/Resources/pdfs/RW-Swift-Cheatsheet-0_8.pdf)
 * Referencias
     * [Swift book](../2021-1/Resources/pdfs/swiftessentials.pdf)
+* Videos
+    * [Git y Github | Curso Práctico de Git y Github Desde Cero](https://www.youtube.com/watch?v=HiXLkL42tMU)
+    * [¿Qué es GIT y cómo funciona?](https://www.youtube.com/watch?v=HiXLkL42tMU)
