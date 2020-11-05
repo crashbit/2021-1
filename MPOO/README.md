@@ -8,6 +8,12 @@
 * [Session 03 (28/09/2020)](sessions/03.md)
 * [Session 04 (05/10/2020)](sessions/04.md)
 * [Session 05 (07/10/2020)](sessions/05.md)
+* [Session 06 (12/10/2020)](sessions/06.md)
+* [Session 07 (19/10/2020)](sessions/07.md)
+* [Session 08 (21/10/2020)](sessions/08.md)
+* [Session 09 (26/10/2020)](sessions/09.md)
+* [Session 10 (28/10/2020)](sessions/10.md)
+* [Session 11 (04/11/2020)](sessions/11.md)
 
 
 ## Resources
