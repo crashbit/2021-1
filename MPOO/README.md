@@ -16,6 +16,10 @@
 * [Session 11 (04/11/2020)](sessions/11.md)
 * [Session 12 (09/11/2020)](sessions/12.md)
 * [Session 13 (18/11/2020)](sessions/13.md)
+* [Session 14 (23/11/2020)](sessions/14.md)
+* [Session 15 (25/11/2020)](sessions/15.md)
+* [Session 16 (30/11/2020)](sessions/16.md)
+* [Session 17 (02/12/2020)](sessions/17.md)
 
 
 ## Resources
