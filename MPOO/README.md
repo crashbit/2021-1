@@ -21,6 +21,7 @@
 * [Session 16 (30/11/2020)](sessions/16.md)
 * [Session 17 (02/12/2020)](sessions/17.md)
 * [Session 20 (04/01/2021)](sessions/20.md)
+* [Session 22 (11/01/2021)](sessions/22.md)
 
 
 ## Resources
